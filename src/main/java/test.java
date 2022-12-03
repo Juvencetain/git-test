@@ -9,5 +9,6 @@ public class test {
         System.out.println("test3");
         System.out.println("test4");
         System.out.println("master-fix test5");
+        System.out.println("hot-fix test5");
     }
 }
