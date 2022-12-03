@@ -11,5 +11,6 @@ public class test {
         System.out.println("master-fix test5");
         System.out.println("hot-fix test5");
         System.out.println("push test6");
+        System.out.println("pull test7");
     }
 }
